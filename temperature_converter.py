@@ -6,7 +6,6 @@
 
 # Ask the user for a temperature in Celsius
 celsius = float(input("Temperature in Celsius: "))
-
 # Convert to Fahrenheit
 fahrenheit = celsius * 9 / 5 + 32
 kelvin = celsius + 273
